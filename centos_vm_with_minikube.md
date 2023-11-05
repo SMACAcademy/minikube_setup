@@ -104,3 +104,9 @@ kubectl get all --all-namespaces
 minikube stop
 
 ```
+
+## Tips - If wget ssl error happens in Centos install console. Required certificates would be installed.
+
+```
+sudo yum install konsole
+```

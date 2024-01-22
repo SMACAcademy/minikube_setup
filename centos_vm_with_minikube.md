@@ -17,6 +17,9 @@ echo $KERN_DIR
 
 echo $KERN_DIR
 
+# latest guest addition iso from https://download.virtualbox.org/virtualbox/7.0.14/
+mount and execute
+
 mount -r /dev/cdrom /media
 
 cd /media
